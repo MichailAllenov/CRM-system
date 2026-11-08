@@ -1,1 +1,2 @@
-
+- [Видение продукта](docs/01-planning/vision.md)
+- 
